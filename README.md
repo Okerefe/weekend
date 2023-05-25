@@ -1,6 +1,6 @@
 # Raven Weekend App!
 
-**Raven Weekend App** is a Simple Laravel Application [(Demo Hosted Here)](https://weekend.deravenedwriter.com/), that Computes the amount of Weekend between any two dates. It also gives the options to download the txt and pdf file of the report.
+**Raven Weekend App** is a Simple Laravel Application [(Demo Hosted Here)](http://weekend.deravenedwriter.com/), that Computes the amount of Weekend between any two dates. It also gives the options to download the txt and pdf file of the report.
 It harnesses some pretty complex logic in processing the amount of weekend betwen any given date.
 It was built using Laravel for the backend and some  light weight Vue.js at the front end.
 
